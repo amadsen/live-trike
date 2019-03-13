@@ -1,0 +1,23 @@
+{
+  "name": "live-trike",
+  "version": "1.0.0",
+  "description": "Examples written live coding a presentation on trike",
+  "main": "index.js",
+  "dependencies": {
+    "trike": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Madsen <amadsen@codifiant.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amadsen/live-trike.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amadsen/live-trike/issues"
+  },
+  "homepage": "https://github.com/amadsen/live-trike#readme"
+}
